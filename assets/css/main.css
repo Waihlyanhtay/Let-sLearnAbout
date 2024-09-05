@@ -375,7 +375,7 @@ h6 {
   .navmenu a:focus {
     color: var(--nav-color);
     padding: 18px 15px;
-    font-size: 14px;
+    font-size: 20px;
     font-family: var(--nav-font);
     font-weight: 400;
     display: flex;
@@ -1075,6 +1075,7 @@ section,
 
 .about .content p:last-child {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .about .about-img {
@@ -1120,6 +1121,7 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 40%);
   margin: 0;
   padding: 0;
+  text-align: justify;
 }
 
 .why-us .card-item:hover {
@@ -1275,6 +1277,7 @@ section,
 
 .specials .details p {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
+  text-align: justify;
 }
 
 .specials .details p:last-child {
