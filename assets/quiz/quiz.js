@@ -13,42 +13,28 @@ var quiz = {
     "d": "Reducing the cost of AI implementation "
     }
     ],
-    "answer": "Protecting AI systems from threats and vulnerabilities ",
+    // "answer": "Protecting AI systems from threats and vulnerabilities ",
     "score": 0,
     "status": ""
     },
+
     {
     "id": 2,
-    "question": "What is the primary goal of critical infrastructure cybersecurity?",
+    "question": " What is the primary goal of network security?",
     "options": [
     {
-    "a": "To improve user experience",
-    "b": "To ensure essential services remain operational and secure ",
-    "c": "To reduce costs in the energy sector ",
-    "d": "To promote technological innovation  ",
+    "a": "To increase network speed",
+    "b": "To protect a network and its data from unauthorized access and misuse ",
+    "c": "To reduce the cost of network maintenance ",
+    "d": "To enhance user experience  ",
     }
     ],
-    "answer": "To ensure essential services remain operational and secure ",
+    // "answer": " To protect a network and its data from unauthorized access and misuse ",
     "score": 0,
     "status": ""
     },
     {
     "id": 3,
-    "question": " What is the primary goal of network security?",
-    "options": [
-    {
-    "a": "To increase network speed",
-    "b": " To protect a network and its data from unauthorized access and misuse ",
-    "c": "To reduce the cost of network maintenance ",
-    "d": "To enhance user experience  ",
-    }
-    ],
-    "answer": " To protect a network and its data from unauthorized access and misuse ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 4,
     "question": " What types of threats does endpoint security aim to prevent?",
     "options": [
     {
@@ -63,7 +49,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 5,
+    "id": 4,
     "question": "Which of the following is a common practice in application security?",
     "options": [
     {
@@ -78,7 +64,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 6,
+    "id": 5,
     "question": "What are the primary goals of cloud security?",
     "options": [
     {
@@ -93,7 +79,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 7,
+    "id": 6,
     "question": "What does information security (InfoSec) primarily aim to protect against?",
     "options": [
     {
@@ -107,53 +93,9 @@ var quiz = {
     "score": 0,
     "status": ""
     },
+  
     {
-    "id": 8,
-    "question": "Which of the following threats is NOT specifically mentioned as a concern for mobile security?",
-    "options": [
-    {
-    "a": "Malware  ",
-    "b": "Unauthorized access ",
-    "c": "Data breaches",
-    "d": "Hardware failures",
-    }
-    ],
-    "answer": "Hardware failures",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 9,
-    "question": "Which of the following is NOT mentioned as a key concern of AI security in the paragraph? ",
-    "options": [
-    {
-    "a": "Ensuring data privacy ",
-    "b": "Preventing model manipulation",
-    "c": "Improving AI system efficiency ",
-    "d": "Protecting against adversarial attacks "
-    }
-    ],
-    "answer": "Improving AI system efficiency ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 10,
-    "question": "Which of the following is NOT mentioned as a focus area in critical infrastructure cybersecurity? ",
-    "options": [
-    {
-    "a": "Managing risks",
-    "b": "Responding to incidents ",
-    "c": "Ensuring resilience ",
-    "d": "Developing new software applications",
-    }
-    ],
-    "answer": "Ensuring resilience ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 11,
+    "id": 7,
     "question": "Which of the following is NOT mentioned as a measure included in network security? ",
     "options": [
     {
@@ -167,38 +109,9 @@ var quiz = {
     "score": 0,
     "status": ""
     },
+    
     {
-    "id": 12,
-    "question": "Which of the following is NOT typically included in endpoint security solutions?",
-    "options": [
-    {
-    "a": "Antivirus software",
-    "b": "Firewalls",
-    "c": "Encryption",
-    "d": "Social media monitoring ",
-    }
-    ],
-    "answer": "Social media monitoring ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 13,
-    "question": "Which of the following is NOT mentioned as a measure in application security?",
-    "options": [
-    {
-    "a": "Code reviews",
-    "b": "Penetration testing",
-    "c": "Secure coding practices",
-    "d": "Software development lifecycle management",
-    }
-    ],
-    "answer": "Software development lifecycle management",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 14,
+    "id": 8,
     "question": "Which of the following is NOT mentioned as a key aspect of cloud security?",
     "options": [
     {
@@ -212,38 +125,9 @@ var quiz = {
     "score": 0,
     "status": ""
     },
+
     {
-    "id": 15,
-    "question": " Which of the following is NOT a measure mentioned as part of InfoSec?",
-    "options": [
-    {
-    "a": "Access control ",
-    "b": "Encryption  ",
-    "c": "Threat detection ",
-    "d": "Marketing strategies",
-    }
-    ],
-    "answer": "Threat detection ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 16,
-    "question": "Which practice is NOT listed as a measure to enhance mobile security?",
-    "options": [
-    {
-    "a": "Using strong passwords ",
-    "b": "Enabling encryption",
-    "c": "Regularly updating software",
-    "d": "Increasing battery life",
-    }
-    ],
-    "answer": "Increasing battery life",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 17,
+    "id": 9,
     "question": "Why is AI security important according to the paragraph? ",
     "options": [
     {
@@ -258,7 +142,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 18,
+    "id": 10,
     "question": "Why is collaboration between government and private sectors important in critical infrastructure cybersecurity? ",
     "options": [
     {
@@ -272,23 +156,9 @@ var quiz = {
     "score": 0,
     "status": ""
     },
+    
     {
-    "id": 19,
-    "question": "What are the three key aspects of network security mentioned in the paragraph?",
-    "options": [
-    {
-    "a": "Speed, scalability, and flexibility",
-    "b": "Integrity, confidentiality, and availability ",
-    "c": "Integrity, confidentiality, and availability ",
-    "d": "Cost-efficiency, ease of use, and reliability",
-    }
-    ],
-    "answer": "Integrity, confidentiality, and availability ",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 20,
+    "id": 11,
     "question": "What is the primary purpose of endpoint security?",
     "options": [
     {
@@ -303,7 +173,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 21,
+    "id": 12,
     "question": "What is the goal of implementing application security measures?",
     "options": [
     {
@@ -317,23 +187,9 @@ var quiz = {
     "score": 0,
     "status": ""
     },
+
     {
-    "id": 22,
-    "question": "What are the key aspects that InfoSec focuses on preserving?",
-    "options": [
-    {
-    "a": "Data backup and recovery ",
-    "b": "Confidentiality, integrity, and availability",
-    "c": "System performance and scalability",
-    "d": "User convenience and interface",
-    }
-    ],
-    "answer": "Confidentiality, integrity, and availability",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 23,
+    "id": 13,
     "question": "Why is cloud security important for businesses?",
     "options": [
     {
@@ -348,7 +204,7 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 24,
+    "id": 14,
     "question": "What is the primary goal of mobile security?",
     "options": [
     {
@@ -362,19 +218,23 @@ var quiz = {
     "score": 0,
     "status": ""
     },
-    // {
-    // "id": 25,
-    // "question": "Is JavaScript case-sensitive?",
-    // "options": [
-    // {
-    // "a": "No",
-    // "b": "Yes"
-    // }
-    // ],
-    // "answer": "Yes",
-    // "score": 0,
-    // "status": ""
-    // }
+    {
+        "id": 15,
+        "question": "What is the primary goal of critical infrastructure cybersecurity?",
+        "options": [
+        {
+        "a": "To improve user experience",
+        "b": "To ensure essential services remain operational and secure ",
+        "c": "To reduce costs in the energy sector ",
+        "d": "To promote technological innovation  ",
+        }
+        ],
+        "answer": "To ensure essential services remain operational and secure ",
+        "score": 0,
+        "status": ""
+        },
+
+
     ]
     }
     var quizApp = function () {
@@ -426,7 +286,6 @@ var quiz = {
     }
         $("#result").append(
     '<div class="result-question"><span>Q ' + quiz.JS[j].id + '</span> &nbsp;' + quiz.JS[j].question + '</div>' +
-    '<div><b>Correct answer:</b> &nbsp;' + quiz.JS[j].answer + '</div>' +
     '<div class="last-row"><b>Score:</b> &nbsp;' + res +
     '</div>'
     );
@@ -475,3 +334,4 @@ var quiz = {
     }
     jsq.changeQuestion(-1);
     });
+    // '<div><b>Correct answer:</b> &nbsp;' + quiz.JS[j].answer + '</div>' +
